@@ -1,4 +1,4 @@
-# Expresiones_Lambda
+# Expresiones Lambda
 Ejercicios con expresiones Lambda
 
 
