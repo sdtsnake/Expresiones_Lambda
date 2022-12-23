@@ -6,7 +6,7 @@ Se realizan dirente ejercicios para el manejo de lambdas en java
 
 * Consumer
 * Supplier
-* BiConsumr
+* BiConsumer
 * Function
 * Predicate
 
