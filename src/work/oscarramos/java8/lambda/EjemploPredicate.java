@@ -2,7 +2,6 @@ package work.oscarramos.java8.lambda;
 
 import work.oscarramos.java8.lambda.models.Usuario;
 
-import java.sql.SQLOutput;
 import java.util.function.BiPredicate;
 import java.util.function.Predicate;
 

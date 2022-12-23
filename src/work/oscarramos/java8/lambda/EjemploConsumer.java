@@ -3,7 +3,6 @@ package work.oscarramos.java8.lambda;
 import work.oscarramos.java8.lambda.models.Usuario;
 
 import java.text.SimpleDateFormat;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Date;
 import java.util.List;
